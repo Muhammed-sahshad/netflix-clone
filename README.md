@@ -38,7 +38,7 @@ VITE_FIREBASE_APP_ID=your_firebase_app_id
 VITE_TMDB_BEARER_TOKEN=your_tmdb_bearer_token
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend: React + Vite
 
 API: TMDb API
